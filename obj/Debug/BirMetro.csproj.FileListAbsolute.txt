@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\BirMetro\bin\Debug\BirMetro.exe.config
+C:\Users\Admin\source\repos\BirMetro\bin\Debug\BirMetro.exe
+C:\Users\Admin\source\repos\BirMetro\bin\Debug\BirMetro.pdb
+C:\Users\Admin\source\repos\BirMetro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\source\repos\BirMetro\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\BirMetro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\BirMetro\obj\Debug\BirMetro.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BirMetro\obj\Debug\BirMetro.Form1.resources
+C:\Users\Admin\source\repos\BirMetro\obj\Debug\BirMetro.Properties.Resources.resources
+C:\Users\Admin\source\repos\BirMetro\obj\Debug\BirMetro.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BirMetro\obj\Debug\BirMetro.csproj.CopyComplete
+C:\Users\Admin\source\repos\BirMetro\obj\Debug\BirMetro.exe
+C:\Users\Admin\source\repos\BirMetro\obj\Debug\BirMetro.pdb
